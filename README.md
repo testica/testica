@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=testica&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats">
+<a href="https://github.com/testica">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=testica&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testica&layout=compact&exclude_repo=airportx&langs_count=6">
+</a>
